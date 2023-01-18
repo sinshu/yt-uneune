@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workspace", "Workspace\Workspace.csproj", "{D17F327C-06FC-4402-B3F3-C6692D052F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalCrossing", "AnimalCrossing\AnimalCrossing.csproj", "{3DDEA8E7-3851-4CC3-8879-87EA86060152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D17F327C-06FC-4402-B3F3-C6692D052F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17F327C-06FC-4402-B3F3-C6692D052F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17F327C-06FC-4402-B3F3-C6692D052F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17F327C-06FC-4402-B3F3-C6692D052F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDEA8E7-3851-4CC3-8879-87EA86060152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDEA8E7-3851-4CC3-8879-87EA86060152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDEA8E7-3851-4CC3-8879-87EA86060152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDEA8E7-3851-4CC3-8879-87EA86060152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7C518C0-290E-4C1C-8F96-BA3ACB642525}
+	EndGlobalSection
+EndGlobal
