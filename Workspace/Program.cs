@@ -8,6 +8,6 @@ public static class Program
 {
     public static async Task Main(string[] args)
     {
-        await AnimalCrossing.Download.DoMultiple(100, 10);
+        await AnimalCrossing.SpeechRecognition.DoMultiple(10);
     }
 }
